@@ -18,10 +18,12 @@ Just describe what you're looking for in natural language:
 AI will understand your description and find the best matches from the library.
 
 #Demo URL: https://duiweile.up.railway.app/
-
-#Sample image:https://github.com/Talors1225/JustRight/issues/1
 ---
-![演示截图]https://private-user-images.githubusercontent.com/286664814/606193953-fe7b7fca-b85c-40cd-9754-106da229da40.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODExNTQ3NTYsIm5iZiI6MTc4MTE1NDQ1NiwicGF0aCI6Ii8yODY2NjQ4MTQvNjA2MTkzOTUzLWZlN2I3ZmNhLWI4NWMtNDBjZC05NzU0LTEwNmRhMjI5ZGE0MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYxMVQwNTA3MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mODdkMGJiYzg1ODU5YmFlYWY0YWQ2YmQzYTFlMzMxNmJkNTUyMDk1NDE0ZDE0OTRhNTc2ZTQ1NTM2YzdhNTU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.WQnuaqQ5k2ytF_0kqbfVCg0EYSz6cpRRINeTL6x7WAA
+<img width="1370" height="913" alt="4" src="https://github.com/user-attachments/assets/2ba15001-0712-4e40-8eb4-f48be59fcd0f" />
+<img width="1361" height="904" alt="3" src="https://github.com/user-attachments/assets/3b8dfcbf-1651-476d-af56-c6bb82f6bd06" />
+<img width="1345" height="897" alt="2" src="https://github.com/user-attachments/assets/d9e2522e-785e-482e-80c6-09642c41b8ca" />
+<img width="1365" height="910" alt="1" src="https://github.com/user-attachments/assets/6f59a1f7-1e80-4f79-b56b-afdea0610678" />
+
 
 ## ✨ Features
 
