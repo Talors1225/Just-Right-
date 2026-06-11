@@ -3,5 +3,4 @@ node_modules/
 data/*.db
 data/*.db-journal
 data/.*-progress.json
-scripts/
 build-log.txt
