@@ -19,10 +19,6 @@ AI will understand your description and find the best matches from the library.
 
 ### Demo URL: https://duiweile.up.railway.app/
 ---
-<img width="410" height="273" alt="1" src="https://github.com/user-attachments/assets/8d872974-5bcc-4256-8a0c-cd23ad76e8c3" /><img width="411" height="274" alt="4" src="https://github.com/user-attachments/assets/d79bf4db-3bae-45c2-9977-02399c48fbb1" /><img width="409" height="273" alt="3" src="https://github.com/user-attachments/assets/40bacf9a-26e1-471a-af66-1c3a1bf11b82" /><img width="412" height="275" alt="2" src="https://github.com/user-attachments/assets/70a0dc72-2087-44c3-8c27-b7df7260e988" />
-
-
-
 
 ## ✨ Features
 
@@ -35,6 +31,8 @@ Examples:
 > I want an RPG with great story, single-player, that I can sink dozens of hours into.
 
 > Something like Stardew Valley but with more modern graphics.
+
+<img width="432" height="324" alt="a" src="https://github.com/user-attachments/assets/43343867-734b-46a6-a30b-0c9221a0030f" /><img width="432" height="324" alt="b" src="https://github.com/user-attachments/assets/33605e8f-acf0-4a10-9af2-e95664792717" />
 
 Supports:
 
@@ -54,6 +52,8 @@ Examples:
 > A suspenseful movie with lots of plot twists and fast pacing.
 
 > Something like Westworld.
+
+<img width="432" height="324" alt="c" src="https://github.com/user-attachments/assets/89fd9eed-7913-4472-8622-58c7e0fe53c2" /><img width="432" height="324" alt="d" src="https://github.com/user-attachments/assets/a9333bbe-c63d-4fa0-a38c-16d1a595447a" />
 
 AI will analyze your preferences and explain why each pick matches.
 
