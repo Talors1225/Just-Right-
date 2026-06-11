@@ -19,7 +19,9 @@ AI will understand your description and find the best matches from the library.
 
 #Demo URL: https://duiweile.up.railway.app/
 ---
-<img width="410" height="273" alt="1" src="https://github.com/user-attachments/assets/8d872974-5bcc-4256-8a0c-cd23ad76e8c3" />
+<img width="410" height="273" alt="1" src="https://github.com/user-attachments/assets/8d872974-5bcc-4256-8a0c-cd23ad76e8c3" /><img width="411" height="274" alt="4" src="https://github.com/user-attachments/assets/d79bf4db-3bae-45c2-9977-02399c48fbb1" />
+<img width="408" height="271" alt="3" src="https://github.com/user-attachments/assets/3389a960-500d-4a82-b7c0-9599d7b0a5f9" /><img width="404" height="269" alt="2" src="https://github.com/user-attachments/assets/263812f6-43fa-48db-b226-de9f1814708a" />
+
 
 
 ## ✨ Features
